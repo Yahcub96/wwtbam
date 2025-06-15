@@ -1,0 +1,130 @@
+[
+  {
+    "q": "What was the command in the Law about idols?",
+    "a1": "You shall avoid them",
+    "a2": "You shall not speak to them",
+    "a3": "You shall not make to worship them",
+    "a4": "You shall destroy only golden ones",
+    "correct": "a3"
+  },
+  {
+    "q": "According to Leviticus, what animal must chew the cud and have split hooves to be clean?",
+    "a1": "Carmel",
+    "a2": "Cow",
+    "a3": "Pig",
+    "a4": "Donkey",
+    "correct": "a2"
+  },
+  {
+    "q": "What kind of offering was to be made for unintentional sin?",
+    "a1": "Grain offering",
+    "a2": "Fellowship offering",
+    "a3": "Sin offering",
+    "a4": "Burnt offering",
+    "correct": "a3"
+  },
+  {
+    "q": "What prophet saw a vision of a valley of dry bones?",
+    "a1": "Jeremiah",
+    "a2": "Ezekiel",
+    "a3": "Isaiah",
+    "a4": "Daniel",
+    "correct": "a2"
+  },
+  {
+    "q": "What was required of a man who seduced a virgin not betrothed to another?",
+    "a1": "Be stoned",
+    "a2": "Publicly confess",
+    "a3": "Pay the bride-price and marry her",
+    "a4": "Exiled from the camp",
+    "correct": "a3"
+  },
+  {
+    "q": "Which festival required every male Israelite to appear before the Lord in Jerusalem?",
+    "a1": "Feast of Trumpets",
+    "a2": "Day of Atonement",
+    "a3": "Feast of Tabernacles",
+    "a4": "Purim",
+    "correct": "a3"
+  },
+  {
+    "q": "What was not allowed to be worn by a priest when entering the inner court?",
+    "a1": "Breastplate",
+    "a2": "Sandals",
+    "a3": "Wool garments",
+    "a4": "Linen robe",
+    "correct": "a3"
+  },
+  {
+    "q": "According to Deuteronomy, who was not allowed to enter the assembly of the Lord up to the tenth generation?",
+    "a1": "Philistines",
+    "a2": "Moabites",
+    "a3": "Egyptians",
+    "a4": "Levites",
+    "correct": "a2"
+  },
+  {
+    "q": "According to the Law, what happens to a rebellious and stubborn son?",
+    "a1": "Banished from the tribe",
+    "a2": "Given to the priests",
+    "a3": "Stoned by the elders",
+    "a4": "Sent into slavery",
+    "correct": "a3"
+  },
+  {
+    "q": "What was written on the high priest’s golden headplate?",
+    "a1": "God is One",
+    "a2": "Holiness to the LORD",
+    "a3": "Israel’s Redemption",
+    "a4": "Truth and Light",
+    "correct": "a2"
+  },
+  {
+    "q": "How often was the scapegoat ritual performed?",
+    "a1": "Every New Moon",
+    "a2": "Once a year",
+    "a3": "Every seven years",
+    "a4": "Every 50 years",
+    "correct": "a2"
+  },
+  {
+    "q": "According to Jesus in Matthew 5, how should we treat our enemies?",
+    "a1": "Keep a distance",
+    "a2": "Pray for them",
+    "a3": "Rebuke them",
+    "a4": "Challenge them publicly",
+    "correct": "a2"
+  },
+  {
+    "q": "What law did Jesus reference when challenged about divorce?",
+    "a1": "Genesis: “the two shall become one flesh”",
+    "a2": "Leviticus: “do not commit adultery”",
+    "a3": "Deuteronomy: “give her a certificate of divorce”",
+    "a4": "Numbers: “keep your vows”",
+    "correct": "a1"
+  },
+  {
+    "q": "In Acts 15, what parts of the Law were Gentiles instructed to follow?",
+    "a1": "Entire Mosaic Law",
+    "a2": "Ten Commandments",
+    "a3": "Abstain from pollutions of idols, and from fornication and from things strangled, and from blood.",
+    "a4": "Tithe and circumcision",
+    "correct": "a3"
+  },
+  {
+    "q": "What law did Paul say was “our schoolmaster to bring us to Christ”?",
+    "a1": "The law of circumcision",
+    "a2": "The Mosaic Law",
+    "a3": "The oral traditions",
+    "a4": "The Ten Commandments",
+    "correct": "a2"
+  },
+  {
+    "q": "In Mosaic Law, how many cities of refuge were established for accidental manslayers?",
+    "a1": "3",
+    "a2": "6",
+    "a3": "10",
+    "a4": "12",
+    "correct": "a2"
+  }
+]

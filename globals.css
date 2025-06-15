@@ -1,0 +1,217 @@
+@import "tailwindcss";
+
+
+
+body {
+ 
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+}
+
+/* globals.css */
+.layout {
+  display: grid;
+  height: 100vh;
+  width: 100vw;
+
+  background-color: red; /* to test background visibility */
+
+  grid-template-columns: 1280fr 640fr;
+  grid-template-rows: 720fr 180fr 180fr;
+}
+
+.camera {
+  background-color: rgb(5, 134, 85);
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.lifelines {
+ 
+background: linear-gradient(180deg, orange, black);
+grid-area: 3 / 2 / 4 / 3;
+display:flex;
+justify-content: space-evenly;
+align-items: center;
+text-align: center;
+}
+
+.l1, .l2, .l3{
+
+ background: linear-gradient(270deg, orange, black);
+ border: solid white 2px;
+ width: 27%;
+ height:40%;
+display: flex;
+justify-content: center; /* Horizontally centers the text */
+align-items: center;    /* Vertically centers the text */
+border-radius: 50%;
+font-weight: bold;
+cursor: pointer;
+
+}
+
+.qaa {
+  background: linear-gradient(180deg, blue, black);
+
+  grid-area: 2 / 1 / 4/ 2;
+  display: grid;
+  grid-template-columns: 1fr 15fr 15fr 1fr ;
+  grid-template-rows: 1fr 2fr 2fr 2fr 1fr;
+  text-align: center;
+}
+
+
+.q{
+  background:linear-gradient(270deg, blue, black);;
+grid-area: 2/2/3/4 ;
+display: flex;
+justify-content: center; /* Horizontally centers the text */
+align-items: center;    /* Vertically centers the text */
+border: solid white 2px;
+border-radius: 15px;
+font-weight: bold;
+cursor: pointer;
+margin:0.7%;
+
+}
+
+.a1{
+
+   background:linear-gradient(270deg, blue, black);;
+grid-area: 3/2/4/3;
+display: flex;
+justify-content: center; /* Horizontally centers the text */
+align-items: center;    /* Vertically centers the text */
+border: solid white 2px;
+border-radius: 15px;
+font-weight: bold;
+cursor: pointer;
+margin:0.7%;
+
+}
+
+.a2{
+
+   background:linear-gradient(270deg, blue, black);;
+grid-area:  3/3/4/4 ;
+display: flex;
+justify-content: center; /* Horizontally centers the text */
+align-items: center;    /* Vertically centers the text */
+border: solid white 2px;
+border-radius: 15px;
+font-weight: bold;
+cursor: pointer;
+margin:0.7%;
+
+}
+
+.a3{
+
+   background:linear-gradient(270deg, blue, black);;
+grid-area: 4/2/5/3;
+display: flex;
+justify-content: center; /* Horizontally centers the text */
+align-items: center;    /* Vertically centers the text */
+border: solid white 2px;
+border-radius: 15px;
+font-weight: bold;
+cursor: pointer;
+margin:0.7%;
+
+}
+
+.a4{
+
+   background:linear-gradient(270deg, blue, black);;
+grid-area: 4/3/5/4;
+display: flex;
+justify-content: center; /* Horizontally centers the text */
+align-items: center;    /* Vertically centers the text */
+border: solid white 2px;
+border-radius: 15px;
+font-weight: bold;
+cursor: pointer;
+margin:0.7%;
+
+}
+
+.ladder {
+ 
+  background: linear-gradient(0deg, blue, black);
+grid-area: 1 / 2 / 3 / 3;
+display:flex;
+flex-direction: column;
+justify-content: space-evenly;
+align-items: center;
+text-align: center;
+}
+
+.ladderpoints100,.ladderpoints250,.ladderpoints500,.ladderpoints1000,.ladderpoints2000,.ladderpoints4000,.ladderpoints8000,
+.ladderpoints16000,.ladderpoints32000,.ladderpoints64000,.ladderpoints125000,.ladderpoints250000,.ladderpoints500000,.ladderpoints1000000{
+
+ background: linear-gradient(270deg, blue, black);
+ border: solid white 2px;
+ width: 70%;
+ height:5%;
+display: flex;
+justify-content: center; /* Horizontally centers the text */
+align-items: center;    /* Vertically centers the text */
+border-radius: 15px;
+font-weight: bold;
+}
+
+.a1:hover,.a2:hover,.a3:hover,.a4:hover, .init2:hover {
+  background: orange;
+  color: black;
+}
+
+.l1:hover,.l2:hover,.l3:hover{
+  background:linear-gradient(90deg, blue, black);
+  color: white;
+}
+
+.initq {
+  background: linear-gradient(180deg, blue, black);
+  grid-area: 2 / 1 / 4/ 2;
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr 1fr ;
+  grid-template-rows: 1fr 2fr 2fr 2fr 1fr;
+  text-align: center;
+  z-index: 1;
+  
+}
+
+.init1{
+
+   background:white;
+   color: black;
+grid-area: 3/2/4/4;
+display: flex;
+justify-content: center; /* Horizontally centers the text */
+align-items: center;    /* Vertically centers the text */
+border: solid white 2px;
+border-radius: 15px;
+font-weight: bold;
+cursor: pointer;
+margin:0.7%;
+text-align: center;
+
+}
+
+
+.init2{
+
+   background:linear-gradient(270deg, blue, black);;
+grid-area: 4/2/5/4;
+display: flex;
+justify-content: center; /* Horizontally centers the text */
+align-items: center;    /* Vertically centers the text */
+border: solid white 2px;
+border-radius: 15px;
+font-weight: bold;
+cursor: pointer;
+margin:0.7%;
+
+}
+
+
